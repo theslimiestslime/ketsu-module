@@ -1,15 +1,18 @@
 {
   "moduleInfo": {
-    "moduleName": "Testing",
-    "moduleInitials": "TT",
-    "moduleDesc": "testing",
+    "moduleName": "9anime",
+    "moduleInitials": "9a",
+    "moduleDesc": "module for 9anime",
     "developer": "me",
     "moduleID": "1448250501",
     "moduleImage": "https://scontent.fmnl8-5.fna.fbcdn.net/v/t39.30808-6/306163092_461093732700797_6513277336426862155_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGqnsZSIeQyh1WcGbnryjE8yyXzbBC20tzLJfNsELbS3DO8yp22E09Os0jWZVTzayVrDDvbAawTfqIyvUmbtQX9&_nc_ohc=myb0wUv0PtwQ7kNvwEBWDjE&_nc_oc=AdnTyG7nReKoeNy4BoCwTTErrHSuf3PreTonO5eDcnqnvpxEk0EDStFunoHECIwFeXU&_nc_zt=23&_nc_ht=scontent.fmnl8-5.fna&_nc_gid=ROJWl1bbxihxWermGe4gCA&oh=00_AfHv3AD9WiAEsvTzAtRbHYbZXyqGi1u6cMAo1IzIEuDfXA&oe=6818DCE6",
     "moduleVersion": 1.0,
     "moduleLenguage": "ENG",
     "moduleType": "Video",
-    "baseURL": "https://9animetv.to",
+    "baseURL": "https://9animetv.to/",
+    "mainPageLeftTitle": "Recent Anime",
+    "mainPageRightTitle": "Top Anime",
+    
     "moduleDeveloperSite": "",
     "UpdateSite": "",
     "preferedServer": "",
@@ -41,7 +44,7 @@
   "mainPage": [
     {
       "request": {
-        "url": "https://9animetv.to",
+        "url": "https://9animetv.to/",
         "method": "get",
         "headers": [
           {
